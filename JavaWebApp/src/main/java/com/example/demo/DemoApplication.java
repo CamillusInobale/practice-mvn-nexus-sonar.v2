@@ -11,7 +11,7 @@ public class DemoApplication {
 
 		string name = "cami";
 
-		system.out.printin(name);
+		system.out.println(name);
 	}
 
 }
